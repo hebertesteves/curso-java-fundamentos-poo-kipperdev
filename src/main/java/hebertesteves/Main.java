@@ -29,5 +29,16 @@ public class Main {
         meuCarroEsportivo2.acelerar();
         meuCarroEsportivo3.acelerar();
 
+        SerVivo meuSer = new Humano(18);
+        meuSer.respirar();
+
+        Carro meuCarroFurado = null;
+
+        try {
+            meuCarroFurado.acelerar();
+        } catch (NullPointerException exception) {
+            System.out.println("Vende carro furado");
+        }
+
     }
 }
