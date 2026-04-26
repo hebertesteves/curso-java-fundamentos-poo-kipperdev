@@ -35,7 +35,7 @@ Durante o curso, foram estudados os seguintes tópicos:
 - **Plataforma:** KipperDev (YouTube)  
 - **Carga horária:** 2h
 
-📎 **Certificado:** [Acessar certificado](https://drive.google.com/file/d/16rQBd9EnPl7zaRXysmaQ_6oa9APoOWXS/view?usp=sharing)
+📎 **Certificado:** [Acessar certificado](https://fernandakipper.com/certificado/55447b5b-dd73-4d3e-953d-38fe420eda9a)
 
 ---
 
